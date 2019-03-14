@@ -1,0 +1,7 @@
+# Private files
+ecosystem.config.js
+.DS_Store
+
+# Dependency directories
+.DS_Store/
+node_modules/
